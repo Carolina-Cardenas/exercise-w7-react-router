@@ -1,4 +1,4 @@
-// TODO: Import necessary modules and data
+import data from "../data/songs.json";
 
 // TODO: Destrcutrue props to receive information coming in from the parent comp
 function SongInfo() {
